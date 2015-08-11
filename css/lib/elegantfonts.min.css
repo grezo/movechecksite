@@ -155,7 +155,10 @@
 .icon_pause:before {
     content: "\60"}
 .icon_menu:before {
-    content: "\61"}
+    content: "\61"; 
+    color: #5ccbdf;
+    }
+
 .icon_menu-square_alt2:before {
     content: "\62"}
 .icon_menu-circle_alt2:before {
