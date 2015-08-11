@@ -69,7 +69,7 @@ h6 {
   font-size: 12px;
 }
 a {
-  color: #57c5a5;
+  color: #5ccbdf;
 }
 a:hover,
 a:active,
@@ -107,7 +107,6 @@ a.btn:hover,
 .btn:hover {
   background: #5ccbdf;
   color: #fff;
-  border: 2px solid #5ccbdf;
 }
 .btn-default {
   background: transparent;
@@ -433,7 +432,7 @@ footer {
   right: -5px;
 }
 .features-media .feature-media-text .btn.watch-video:hover {
-  color: #57c5a5;
+  color: #5ccbdf;
   background: transparent;
 }
 .features-media i {
